@@ -1,0 +1,133 @@
+{
+    "author": "areddicks1014",
+    "dependencies": {
+        "pebble-clay": "^1.0.1"
+    },
+    "keywords": [],
+    "name": "isac-v1",
+    "pebble": {
+        "capabilities": [
+            "configurable"
+        ],
+        "displayName": "ISAC v1 (from The Division)",
+        "enableMultiJS": true,
+        "messageKeys": [
+            "theme",
+            "custom",
+            "icon",
+            "mode"
+        ],
+        "projectType": "native",
+        "resources": {
+            "media": [
+                {
+                    "file": "images/icon_phoenix_white",
+                    "name": "IMAGE_ICON_PHOENIX_WHITE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/icon_rogue",
+                    "name": "IMAGE_ICON_ROGUE",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/icon_dz",
+                    "name": "IMAGE_ICON_DZ",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/icon_medical",
+                    "name": "IMAGE_ICON_MEDICAL",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/icon_security",
+                    "name": "IMAGE_ICON_SECURITY",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/Borda-18-Bold",
+                    "name": "FONT_BORDA_BOLD_18",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "images/icon_tech",
+                    "name": "IMAGE_ICON_TECH",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/ISAC_icon",
+                    "name": "ISAC_icon",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "fonts/Roboto-Regular.ttf",
+                    "name": "FONT_ROBOTO_30",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "images/ISAC_icon_w",
+                    "menuIcon": true,
+                    "name": "ISAC_icon_w",
+                    "targetPlatforms": null,
+                    "type": "png"
+                },
+                {
+                    "file": "fonts/Borda-42-Bold",
+                    "name": "FONT_BORDA_BOLD_42",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/Borda-48-Medium",
+                    "name": "FONT_BORDA_MEDIUM_48",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "images/x_image",
+                    "name": "IMAGE_X",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "images/no_bluetooth",
+                    "name": "IMAGE_NO_BT",
+                    "targetPlatforms": null,
+                    "type": "bitmap"
+                },
+                {
+                    "file": "fonts/Borda-22-Bold",
+                    "name": "FONT_BORDA_BOLD_22",
+                    "targetPlatforms": null,
+                    "type": "font"
+                },
+                {
+                    "file": "fonts/Borda-14-Bold",
+                    "name": "FONT_BORDA_BOLD_14",
+                    "targetPlatforms": null,
+                    "type": "font"
+                }
+            ]
+        },
+        "sdkVersion": "3",
+        "targetPlatforms": [
+            "aplite",
+            "basalt"
+        ],
+        "uuid": "819b4d55-ab26-4a63-99c9-0c2fbc2e92e0",
+        "watchapp": {
+            "watchface": true
+        }
+    },
+    "version": "1.1.0"
+}
